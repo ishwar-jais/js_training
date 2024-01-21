@@ -25,5 +25,12 @@ console.log (booleanisLoggedIn)
 // "" => false
 // "hitesh" => true
 
+let someNumber = 33;
+
+let stringnumber = String (someNumber)
+
+console.log(stringnumber);
+console.log(typeof(stringnumber));
+
 
 
